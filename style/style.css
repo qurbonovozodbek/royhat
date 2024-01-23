@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#card {
+    margin-top: 30px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+#nameCard {
+    gap: 60px;
+}
+#box {
+    align-items: center;
+}
+#cardImg {
+    border-radius: 8px;
+}
